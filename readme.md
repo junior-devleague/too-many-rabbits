@@ -37,8 +37,12 @@ Tasks
 
 1.   Create a new python file, or create a new REPL in repl.it
 2.   Create a new function, calling it something like countAt(iteration)
-3.   
-4.   
+3.   Find & establish the **base case(s)**. (*HINT:* when will the function *not* call itself?)
+4.   Create the recursive portion of the function -- fibonacci sequence is function(input) = function(input-1) + function(input-2)
+5.   Return the function with a value equal to the total from the fibonacci sequence
+6.   Use an input to get the iteration to go to
+7.   run the function using that iteration
+8.   Print how many rabbits there are at that iteration
 
 ### Choto Stretch Goals
 -   
