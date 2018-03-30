@@ -45,7 +45,4 @@ Tasks
 8.   Print how many rabbits there are at that iteration
 
 ### Choto Stretch Goals
--   
-
-Resources
-=========
+-   Use memoization to increase the efficiency of your function -- this an astoundingly huge speed increase and is 100% worth learning
