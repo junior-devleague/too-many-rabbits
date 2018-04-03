@@ -13,7 +13,7 @@ Activity for learning about recursion using the fibonacci sequence
 Objective
 =========
 
-Rabbits... Rabbits, rabbits, RABBITS! You got a pair to keep as pets, but quickly found that one pair became two, two became three, three became five, and now there are more than you can count! Chewing through cables, eating the furniture, there's no peace to be had anymore! At this point you just want them out of your house, but you have no clue how you can tell when you've found them all... Create a function in python that will model the fibonacci sequence so that you know how many pairs of rabbits you need to search for, so that you won't end up leaving any of them behind.
+Rabbits... Rabbits, rabbits, RABBITS! You got a pair to keep as pets, but quickly found that one pair became two, two became three, three became five, and now there are more than you can count! Chewing through cables, eating the furniture, there's no peace to be had anymore! At this point you just want them out of your house, but you have no clue how you can tell when you've found them all... Create a function in python that models the fibonacci sequence so that you know how many pairs of rabbits you need to search for in order to avoid leaving any of them behind.
 
 Prerequisites
 =============
