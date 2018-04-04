@@ -46,4 +46,6 @@ Tasks
 
 ### Choto Stretch Goals
 -   Make the print statement gramatically correct if there's only 1 rabbit
--   Use memoization to increase the efficiency of your function -- this an astoundingly huge speed increase and is 100% worth learning
+-   Use memoization to increase the efficiency of your function (https://stackoverflow.com/questions/1988804/what-is-memoization-and-how-can-i-use-it-in-python)
+-   print the iteration & amount of rabbits at that iteration for every even iteration (*HINT*: this depends on using your cache from the previous stretch goal)
+-   take a user input of 2 iterations between which to calculate the average increase in rabbits/generation. Then, print that information.
